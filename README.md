@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sandipanray7
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
+- skills - HTML,CSS,javascipt
 - contact: sandipanray7@gmail.com
 
 <!---
