@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sandipanray7
+- 👋 Hi, I’m Sandipan Ray
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
 - skills - HTML,CSS,javascipt
