@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sandipan Ray
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
-- skills - HTML,CSS,javascipt
+- 🌱 I’m currently learning Java
+- skills - HTML,CSS,C,Java
 - contact: sandipanray7@gmail.com
 
 <!---
