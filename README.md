@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sandipan Ray
 - 👀 I’m interested in coding
 
-- skills - C/C++, Python, JavaScript
+- skills - C/C++, Python
 - contact: sandipanray7@gmail.com
 
 <!---
